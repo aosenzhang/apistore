@@ -127,5 +127,5 @@ http://api.doubi.so/novelrank/
 ####参数：
 page / limit
 ####返回字段：
-novelid / title / novelpv / author / first / second / rank(排名)
+novelid / title / novelpv / picture / author / first / second / rank(排名)
     
